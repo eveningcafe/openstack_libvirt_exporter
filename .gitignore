@@ -1,0 +1,15 @@
+*.pyc
+*.snap
+*.swp
+*~
+.venv
+/bin
+/pkg
+__pycache__
+debian/files
+parts
+prime
+snap
+stage
+.idea
+.idea/*
